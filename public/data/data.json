@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Gold Necklace",
+    "price": 199.99,
+    "description": "A stunning 24K gold necklace perfect for every occasion.",
+    "category": "Necklaces",
+    "image": "https://www.gorjana.com/cdn/shop/products/223-100-G_1.jpg?v=1680781216&width=1080",
+    "manufacturer": "Luxe Gold",
+    "inStock": true
+  },
+  {
+    "id": 2,
+    "name": "Diamond Ring",
+    "price": 499.99,
+    "description": "A sparkling diamond ring that shines bright like your love.",
+    "category": "Rings",
+    "image": "https://www.gorjana.com/cdn/shop/files/2410-300_-185-G_1_1b2a518e-2334-48ad-976e-6e6bc7937154.jpg?v=1726663594&%3Bwidth=1080&em-format=avif&em-width=1080",
+    "manufacturer": "Eternal Gems",
+    "inStock": true
+  },
+  {
+    "id": 3,
+    "name": "Pearl Earrings",
+    "price": 79.99,
+    "description": "Elegant pearl earrings that add charm to any outfit.",
+    "category": "Earrings",
+    "image": "https://www.gorjana.com/cdn/shop/files/203-008-186-GS_1_19d01456-a3be-4dd5-900b-9c997449e9e6.jpg?v=1710280417&%3Bwidth=1080&em-format=avif&em-width=1080",
+    "manufacturer": "Pearl Essence",
+    "inStock": true
+  },
+  {
+    "id": 4,
+    "name": "Sapphire Bracelet",
+    "price": 129.99,
+    "description": "A delicate bracelet featuring blue sapphires for a touch of royalty.",
+    "category": "Bracelets",
+    "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS1G5ikVtoPLaxwk1K9lRJLwWQW2s3CaLtkW0edIRmRdaaYZRLUB75WnK192I0-8nyd4_dhrTAqhjpIAvl4uC5n54yKp4mtf3qBDUIVWbRVZyPqxy3z-qebMiRT",
+    "manufacturer": "Royal Stones",
+    "inStock": true
+  },
+  {
+    "id": 5,
+    "name": "Emerald Pendant",
+    "price": 249.99,
+    "description": "A breathtaking emerald pendant that exudes elegance.",
+    "category": "Necklaces",
+    "image": "https://www.gorjana.com/cdn/shop/files/2311-107-519-G_1_938b9c2c-7074-4db6-9eb3-c496270d8e82.jpg?v=1698190558&%3Bwidth=1080&em-format=avif&em-width=1080",
+    "manufacturer": "Green Haven",
+    "inStock": false
+  },
+  {
+    "id": 6,
+    "name": "Ruby Stud Earrings",
+    "price": 89.99,
+    "description": "Brilliant ruby stud earrings to elevate any look.",
+    "category": "Earrings",
+    "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQxyVp_wzm2R-WOdqFyeseIzxy4xaBbNoF7I0l4G6400ITVy9uWptJzDFNsoUCfhmFa6mzaBKgnlZRCkJQpdZG-GI1krvyEHhGkKHoO1m_fajOXxYJYP-hgdWZh",
+    "manufacturer": "Ruby Glow",
+    "inStock": true
+  },
+  {
+    "id": 7,
+    "name": "Opal Ring",
+    "price": 149.99,
+    "description": "An enchanting opal ring that captures the colors of the rainbow.",
+    "category": "Rings",
+    "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRND6nyP3EmnzYXbSt1-1PSTCKESi5nbycFiKrkhnnDmCxP57gw-DNl5JQHEsbfonksHurECGm35KklVedu4aYu62ai760rFSrXmAPVYLGYyUMfavLFtXxPDw",
+    "manufacturer": "Opal Magic",
+    "inStock": true
+  },
+  {
+    "id": 8,
+    "name": "Silver Charm Bracelet",
+    "price": 59.99,
+    "description": "A charming bracelet with silver charms to personalize your style.",
+    "category": "Bracelets",
+    "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRWoUlb2V-wJorJ2v-eVYfob5XfIsEKEqfQDMIO6djrEcvpteSt56BIo3aCiH0pTHMQO6czv8riqe99JtiHWm57Z-OSJmUi",
+    "manufacturer": "Silver Delight",
+    "inStock": true
+  }
+]
